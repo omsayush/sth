@@ -2,7 +2,7 @@
   "name": "crud",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/omsayush/sth.git",
+  "homepage": "]https://omsayush.github.io/sth",
   "proxy": "http://localhost:8003",
   "dependencies": {
     "@auth0/auth0-react": "^1.12.0",
